@@ -1,0 +1,3 @@
+livekit-agents[elevenlabs,groq,silero,turn-detector]~=0.12
+python-dotenv==1.0.1
+httpx==0.27.2
